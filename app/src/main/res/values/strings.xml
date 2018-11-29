@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatterBot_DataBase</string>
+    <string name="action_settings">Settings</string>
+    <string name="bot">bot></string>
+    <string name="conversacion">Conversación</string>
+    <string name="enviar">Enviar</string>
+    <string name="exception">exception></string>
+    <string name="mensaje">Mensaje</string>
+    <string name="messageConnected">bot> Connected.</string>
+    <string name="messageException">Error> Bot can not be created.</string>
+    <string name="you">you></string>
+</resources>
